@@ -1,0 +1,22 @@
+{
+  "name": "gitpipelines",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoorAbdullah02/gitPipeLines.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NoorAbdullah02/gitPipeLines/issues"
+  },
+  "homepage": "https://github.com/NoorAbdullah02/gitPipeLines#readme"
+}
